@@ -54,7 +54,7 @@ I’m interested in the intersection of **Artificial Intelligence, Data, Softwar
 
 I enjoy turning ideas into practical systems:
 
-```text
+```text id="2jce4c"
 💡 Idea
    ↓
 🔎 Understand the Problem
@@ -175,7 +175,7 @@ class KishoreKanitkan:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd6M3N3M2lma2RrcXF4Y3I5cjlmNmR6Ynd6Y2FiOHpocjU2ejd6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="330"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="330"/>
 
 ### 🧠 BUILDING TOWARD INTELLIGENT SYSTEMS
 
@@ -443,7 +443,7 @@ An AI-oriented preventive-care concept combining:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/K3vGuNdQBJTwY/giphy.gif" width="320"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif" width="500"/>
 
 ### 🔬 EXPERIMENT → FAIL → LEARN → BUILD BETTER
 
@@ -646,15 +646,27 @@ The philosophy:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kanith8206&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<a href="https://github.com/kanith8206">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanith8206&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Kishore Kanitkan GitHub Stats"/>
+
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanith8206&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/kanith8206">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanith8206&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" alt="Kishore Kanitkan Top Languages"/>
+
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kanith8206&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanith8206&theme=tokyonight" alt="Kishore Kanitkan GitHub Profile Summary"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kanith8206&theme=tokyonight&hide_border=true" alt="Kishore Kanitkan GitHub Streak"/>
 
 </div>
 
@@ -666,7 +678,7 @@ The philosophy:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 <br><br>
 
