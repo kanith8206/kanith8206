@@ -54,7 +54,7 @@ I’m interested in the intersection of **Artificial Intelligence, Data, Softwar
 
 I enjoy turning ideas into practical systems:
 
-```text id="2jce4c"
+```text
 💡 Idea
    ↓
 🔎 Understand the Problem
@@ -642,35 +642,39 @@ The philosophy:
 
 ---
 
-# 📈 GitHub Intelligence
+# 📊 GitHub Intelligence
 
 <div align="center">
 
-<a href="https://github.com/kanith8206">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanith8206&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" alt="Kishore Kanitkan GitHub Stats"/>
-
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MY%20CODE%20%E2%80%A2%20MY%20JOURNEY%20%E2%80%A2%20MY%20GROWTH&fontSize=25&fontColor=22D3EE"/>
 
 <br><br>
 
 <a href="https://github.com/kanith8206">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanith8206&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" alt="Kishore Kanitkan Top Languages"/>
+<img src="https://img.shields.io/badge/GitHub-kanith8206-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanith8206&theme=tokyonight" alt="Kishore Kanitkan GitHub Profile Summary"/>
+<img src="https://img.shields.io/badge/Repositories-Building-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projects-Exploring-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Continuous-10B981?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kanith8206&theme=tokyonight&hide_border=true" alt="Kishore Kanitkan GitHub Streak"/>
+### 👇 Explore my actual work
+
+<a href="https://github.com/kanith8206">
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-Visit%20GitHub-0F172A?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+> 📈 **“My GitHub isn't a scoreboard. It's a timeline of what I'm becoming.”**
 
 </div>
-
-> 📈 **“My GitHub graph knows how productive I was better than I do.”**
 
 ---
 
