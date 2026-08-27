@@ -396,9 +396,6 @@ An AI-powered shopping assistant designed to make product discovery **conversati
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,45:065F46,100:10B981&height=120&text=AI%20WELLNESSVISION&fontSize=31&fontColor=FFFFFF&animation=fadeIn"/>
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
 
 ### 🧠 Bridging Image Recognition & Conversational AI
 
@@ -555,9 +552,9 @@ It represents the process behind them:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,40:0E7490,75:06B6D4,100:22D3EE&height=180&text=SINERGIA&fontSize=58&fontColor=FFFFFF&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,45:065F46,100:10B981&height=120&text=AI%20WELLNESSVISION&fontSize=31&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/xT0GqFvXgKQh6lY9Gg/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
 
 ### **Intelligence Through Synergy**
 
