@@ -1,13 +1,27 @@
+<!-- ============================================================ -->
+<!--                KISHORE KANITKAN • GITHUB                     -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:0EA5E9,100:22D3EE&height=230&section=header&text=Kishore%20Kanitkan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%E2%80%A2%20Data%20%E2%80%A2%20Software%20%E2%80%A2%20Future%20Founder&descSize=21&descAlignY=58"/>
+<!-- ======================= 3D HERO ============================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+Intelligent+%26+Useful+Technology;AI+%7C+Data+Analytics+%7C+Full-Stack+Development;Turning+Problems+into+Products+%F0%9F%9A%80;Learning+Today+%E2%86%92+Building+Tomorrow;Future+Founder+%7C+SINERGIA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:111827,65:0EA5E9,100:22D3EE&height=240&section=header&text=KISHORE%20KANITKAN&fontSize=54&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=🤖%20AI%20%E2%80%A2%20📊%20DATA%20%E2%80%A2%20💻%20SOFTWARE%20%E2%80%A2%20🚀%20FUTURE%20FOUNDER&descSize=19&descAlignY=60"/>
+
+<!-- 3D / MOTION IDENTITY -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=1000&lines=🧠+Turning+Problems+Into+Intelligent+Products;🤖+AI+%2B+📊+Data+%2B+💻+Software;🚀+Building+Today+For+The+Future;🌌+Future+Founder+%7C+SINERGIA;⚡+Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Improve+%E2%86%92+Ship"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🧠%20AI-Building-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊%20DATA-Analyzing-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20SOFTWARE-Engineering-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20PRODUCTS-Creating-F59E0B?style=for-the-badge"/>
 
 <br><br>
 
 <a href="https://kishorekanitkan.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-kishorekanitkan.vercel.app-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-kishorekanitkan.vercel.app-020617?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kishore-kanitkan/">
@@ -15,7 +29,7 @@
 </a>
 
 <a href="https://github.com/kanith8206">
-<img src="https://img.shields.io/badge/💻%20GITHUB-kanith8206-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🐙%20GITHUB-kanith8206-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:kanith770@gmail.com">
@@ -24,68 +38,52 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kanith8206&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=kanith8206&style=for-the-badge&label=👀%20PROFILE%20VIEWS&color=0EA5E9"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👋 Hey, I'm **Kishore Kanitkan**
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360"/>
+### 🎓 Final-Year B.Tech Student in Computer Science & Business Systems
+
+### 🤖 AI Enthusiast • 📊 Data Explorer • 💻 Full-Stack Builder • 🚀 Future Founder
 
 </div>
 
-### 🎓 Final-Year B.Tech Student
+I’m interested in building technology where **Artificial Intelligence, Data, Software Engineering, and Product Thinking** meet.
 
-### 💻 Computer Science & Business Systems
-
-### 🤖 AI Enthusiast
-
-### 📊 Data Analytics Explorer
-
-### 🌐 Full-Stack Developer
-
-### 🚀 Future Product Builder
-
-I’m interested in the intersection of **Artificial Intelligence, Data, Software Engineering, and Product Development**.
-
-I enjoy turning ideas into practical systems:
+My favorite workflow:
 
 ```text
-💡 Idea
+💡 IDEA
    ↓
-🔎 Understand the Problem
+🔎 UNDERSTAND THE PROBLEM
    ↓
-📊 Work With Data
+📊 WORK WITH DATA
    ↓
-🧠 Add Intelligence
+🧠 ADD INTELLIGENCE
    ↓
-💻 Build the Product
+💻 BUILD THE SYSTEM
    ↓
-🧪 Test & Improve
+🧪 TEST + BREAK
    ↓
-🚀 Ship
-```
+🔧 IMPROVE
+   ↓
+🚀 SHIP
+   ↓
+🌍 CREATE IMPACT
 
-> 😂 **“I write code because arguing with the compiler is strangely satisfying.”**
-
----
-
-# 🧬 Developer Identity
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&lines=Curious+Mind+%7C+Builder+Mindset;AI+%2B+Data+%2B+Software;Problem+Solver+%7C+Product+Thinker"/>
-
-</div>
-
-```python
+🧬 Developer DNA
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=🧬%20DEVELOPER%20DNA&fontSize=30&fontColor=A78BFA"/> </div>
 class KishoreKanitkan:
 
     name = "Kishore Kanitkan"
+    role = "AI + Data + Software Builder"
+
     education = "B.Tech — Computer Science & Business Systems"
 
     interests = [
@@ -93,212 +91,140 @@ class KishoreKanitkan:
         "Data Science",
         "Machine Learning",
         "Generative AI",
+        "Data Analytics",
+        "Business Intelligence",
         "Full-Stack Development",
-        "Business Intelligence"
+        "Product Development"
     ]
 
     mindset = "Learn → Build → Break → Improve → Ship"
 
-    mission = "Build meaningful technology"
+    mission = "Build technology that solves meaningful problems"
 
-    status = "Still debugging life..."
-```
+    long_term_goal = "Product Builder → Founder"
 
+    current_status = "Turning ideas into working products 🚀"
+
+🐛 “It works on my machine.” — every developer before deployment.
+🧠 The Way I Think
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:164E63,100:06B6D4&height=100&text=💡%20PROBLEM%20%E2%86%92%20🧠%20INTELLIGENCE%20%E2%86%92%20🚀%20PRODUCT&fontSize=24&fontColor=FFFFFF"/> </div>
+                      💡 PROBLEM
+                           │
+                           ▼
+                      🔎 RESEARCH
+                           │
+                           ▼
+                        📊 DATA
+                           │
+                           ▼
+                    🧠 INTELLIGENCE
+                           │
+                           ▼
+                       💻 CODE
+                           │
+                           ▼
+                      🧪 EXPERIMENT
+                           │
+                           ▼
+                       🚀 PRODUCT
+                           │
+                           ▼
+                        🌍 IMPACT
+
+💭 “The best code solves the right problem.”
+⚡ My Technology Universe
 <div align="center">
+👨‍💻 Programming
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript&perline=8"/>
+🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&perline=8"/>
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=8"/>
+🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/>
+🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=8"/>
+🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vercel,postman&perline=8"/> </div>
 
-<img src="https://img.shields.io/badge/🧠%20CURIOUS-Always%20Learning-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🛠️%20BUILDER-Project%20Driven-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20VISION-Future%20Founder-10B981?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧠 How I Think
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=PROBLEM%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20PRODUCT&fontSize=30&fontColor=0EA5E9"/>
-
-</div>
-
-```text
-             💡 PROBLEM
-                  │
-                  ▼
-             🔎 RESEARCH
-                  │
-                  ▼
-              📊 DATA
-                  │
-                  ▼
-           🧠 INTELLIGENCE
-                  │
-                  ▼
-             💻 SOFTWARE
-                  │
-                  ▼
-              🚀 PRODUCT
-                  │
-                  ▼
-               🌍 IMPACT
-```
-
-> 💭 **“The best code is the code that solves the right problem.”**
-
----
-
-# ⚡ Technology Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,react,vite,tailwind,nodejs,express,fastapi,mysql,mongodb,postgres,redis,pytorch,tensorflow,git,github,firebase,vercel,postman&perline=8"/>
+😎 “My favorite technology is whichever one is working today.”
+🤖 AI LAB
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,45:4C1D95,100:7C3AED&height=105&text=🤖%20ARTIFICIAL%20INTELLIGENCE%20LAB&fontSize=27&fontColor=FFFFFF&animation=twinkling"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-🤖-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA-📊-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB-🌐-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATABASE-🗄️-F59E0B?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350"/>
-
-</div>
-
-> 😎 **“My favorite technology is whichever one is working today.”**
-
----
-
-# 🤖 Artificial Intelligence
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="330"/>
-
-### 🧠 BUILDING TOWARD INTELLIGENT SYSTEMS
-
-</div>
-
-### Exploring
-
-🤖 Machine Learning
-👁️ Computer Vision
-💬 Generative AI
-🗣️ Conversational AI
-🔍 Explainable AI
-⚡ Intelligent Automation
-🧩 AI Agents
-📊 Data Science
-
-### AI Pipeline
-
-```text
-📥 Input
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=🧠+Machine+Learning;👁️+Computer+Vision;💬+Generative+AI;🗣️+Conversational+AI;🔍+Explainable+AI;🤖+AI+Agents;⚡+Intelligent+Automation"/> </div>
+🧠 AI Pipeline
+📥 INPUT
    ↓
-🧠 Model
+🧠 MODEL
    ↓
 ⚙️ API
    ↓
-💻 Application
+💻 APPLICATION
    ↓
-👤 User
+👤 USER
    ↓
-🌍 Impact
-```
+🌍 IMPACT
 
-> 🤖 **“I asked AI to solve one problem. It returned three more projects.”**
+My interest is not only in training models.
 
----
+I’m interested in turning intelligence into usable products.
 
-# 📊 Data Analytics
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360"/>
-
-### 📈 DATA → INSIGHT → DECISION
-
-</div>
-
-### Data Toolkit
-
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+🤖 “I asked AI to solve one problem. It returned three more projects.”
+📊 DATA ANALYTICS
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:082F49,45:0369A1,100:38BDF8&height=105&text=📊%20DATA%20TO%20DECISIONS&fontSize=30&fontColor=FFFFFF"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-### Workflow
-
-```text
+<img src="https://img.shields.io/badge/🗄️%20SQL-Advanced%20Practice-336791?style=for-the-badge"/> <img src="https://img.shields.io/badge/🐍%20PYTHON-Analytics-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/🐼%20PANDAS-EDA-150458?style=for-the-badge"/> <img src="https://img.shields.io/badge/🔢%20NUMPY-Data-013243?style=for-the-badge"/> <img src="https://img.shields.io/badge/📊%20POWER%20BI-Business%20Intelligence-F2C811?style=for-the-badge"/> <img src="https://img.shields.io/badge/📗%20EXCEL-Analysis-217346?style=for-the-badge"/> </div>
+🗄️ SQL Focus
+JOIN
+GROUP BY
+HAVING
+CTE
+Subqueries
+Window Functions
+📈 Analytics Workflow
 📥 Collect
-  ↓
+   ↓
 🧹 Clean
-  ↓
+   ↓
 🔎 Explore
-  ↓
+   ↓
 📐 Analyze
-  ↓
+   ↓
 📊 Visualize
-  ↓
+   ↓
 💡 Interpret
-  ↓
+   ↓
 🎯 Decide
-```
 
-> 📊 **“I don't have trust issues. I just verify the data.”**
-
----
-
-# 🌐 Full-Stack Development
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="350"/>
-
-### 💻 FROM PIXELS TO APIs
-
-</div>
-
-```text
-🎨 Frontend
+📊 “I don't have trust issues. I just verify the data.”
+🌐 FULL-STACK ENGINEERING
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,45:047857,100:10B981&height=105&text=🌐%20FROM%20PIXELS%20TO%20APIs&fontSize=29&fontColor=FFFFFF"/> </div>
+🎨 FRONTEND
 React • Vite • JavaScript • Tailwind
-          ↓
-⚙️ Backend
+                ↓
+⚙️ BACKEND
 Node.js • Express.js • FastAPI
-          ↓
-🗄️ Database
+                ↓
+🗄️ DATABASE
 MongoDB • PostgreSQL • MySQL • Redis
-          ↓
-☁️ Deployment
+                ↓
+☁️ DEPLOYMENT
 Vercel • Render • Firebase
-```
 
-> 😂 **“Frontend says ‘looks easy’. Backend says ‘absolutely not’.”**
+😂 “Frontend: It's just a button.
+Backend: You have no idea what you've started.”
+🚨 PROJECT 01
+🆘 SMART RESCUE COORDINATION PLATFORM
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:1E3A8A,100:0EA5E9&height=115&text=🚨%20SMART%20RESCUE&fontSize=36&fontColor=FFFFFF&animation=fadeIn"/> </div>
+🆘 Technology for moments when every second matters.
 
----
+A disaster-management platform focused on emergency communication, SOS assistance, accessibility, multilingual interaction, and rescue coordination.
 
-# 🚨 Project 01 — Smart Rescue Coordination Platform
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:1E3A8A,100:0EA5E9&height=120&text=SMART%20RESCUE&fontSize=36&fontColor=FFFFFF&animation=fadeIn"/>
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
-
-### 🆘 Technology for moments when every second matters.
-
-</div>
-
-A disaster-management platform focused on **emergency communication, SOS assistance, accessibility, and rescue coordination**.
-
-### 🚨 Core Features
+🚨 Core Features
 
 🆘 SOS Emergency Assistance
 📡 Emergency Communication
@@ -308,7 +234,7 @@ A disaster-management platform focused on **emergency communication, SOS assista
 🌍 Multi-Language Support
 ♿ Accessibility-Oriented Interface
 
-### 🌐 Languages
+🌐 Languages
 
 🇬🇧 English
 🇮🇳 Tamil
@@ -316,61 +242,47 @@ A disaster-management platform focused on **emergency communication, SOS assista
 🇮🇳 Telugu
 🇮🇳 Hindi
 
-### 🔄 Emergency Flow
+🚑 Emergency Flow
+👤 PERSON IN EMERGENCY
+          ↓
+       🆘 SOS
+          ↓
+      📡 ALERT
+          ↓
+    👥 RESPONSE TEAM
+          ↓
+     📍 COORDINATION
+          ↓
+       🚑 RESCUE
+⚙️ Technology
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express&perline=8"/>
 
-```text
-👤 Person
-   ↓
-🆘 SOS
-   ↓
-📡 Alert
-   ↓
-👥 Rescue Team
-   ↓
-📍 Coordination
-   ↓
-🚑 Response
-```
+🚨 “When life says urgent, the app shouldn't say loading…”
 
-### ⚙️ Technology
+🛍️ PROJECT 02
+✨ VELORA AI
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:5B21B6,100:8B5CF6&height=115&text=🛍️%20VELORA%20AI&fontSize=40&fontColor=FFFFFF&animation=twinkling"/> </div>
+🛒 Intelligent Shopping. Personalized Choices.
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express"/>
+An intelligent shopping assistant designed to make product discovery:
 
-> 🚨 **“When life says ‘urgent’, the app shouldn't say ‘loading…’.”**
+💬 Conversational + 🔎 Visual + ⚖️ Comparative + 🎯 Personalized
 
----
-
-# 🛍️ Project 02 — Velora AI
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,50:4C1D95,100:7C3AED&height=120&text=VELORA%20AI&fontSize=42&fontColor=FFFFFF&animation=twinkling"/>
-
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="280"/>
-
-### ✨ Intelligent Shopping. Personalized Choices.
-
-</div>
-
-An AI-powered shopping assistant designed to make product discovery **conversational, visual, comparative, and personalized**.
-
-### 🧠 Experience
-
-```text
-👤 User
+🧠 Experience
+👤 USER
   ↓
-💬 Conversation
+💬 CONVERSATION
   ↓
-🧠 Gemini AI
+🧠 GEMINI AI
   ↓
-🔎 Product Discovery
+🔎 REQUIREMENT UNDERSTANDING
   ↓
-⚖️ Comparison
+📦 PRODUCT DISCOVERY
   ↓
-🎯 Recommendation
-```
-
-### 🔥 Features
+⚖️ COMPARISON
+  ↓
+🎯 RECOMMENDATION
+🔥 Features
 
 💬 Conversational Shopping Assistant
 🤖 Dynamic AI Product Generation
@@ -379,192 +291,172 @@ An AI-powered shopping assistant designed to make product discovery **conversati
 🎯 Personalized Recommendations
 🔐 Firebase Authentication
 
-### 🛠️ Stack
+🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,javascript,tailwind,nodejs,express,mongodb,firebase,vercel"/>
+React.js • Vite • JavaScript • Tailwind CSS
+shadcn/ui • Framer Motion • React Router DOM
+Axios • Zustand • Lucide React • React Hot Toast
 
-**AI:** Google Gemini API
-**Database:** MongoDB Atlas + Mongoose
-**Authentication:** Firebase Authentication
-**Deployment:** Vercel + Render
+⚙️ Backend
 
-> 🛒 **“Why open 47 tabs when you can just ask?”**
+Node.js • Express.js
 
----
+🤖 AI
 
-# 🧑‍⚕️ Project 03 — AI WellnessVision
+Google Gemini API
 
-<div align="center">
+🗄️ Database
 
+MongoDB Atlas • Mongoose
 
-### 🧠 Bridging Image Recognition & Conversational AI
+🔐 Authentication
 
-</div>
+Firebase Authentication
 
-An AI-oriented preventive-care concept combining:
+☁️ Deployment
+
+Vercel • Render
+
+🛒 “Why open 47 tabs when you can just ask?”
+
+🧑‍⚕️ PROJECT 03
+🧠 AI WELLNESSVISION
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,45:047857,100:10B981&height=115&text=🧠%20AI%20WELLNESSVISION&fontSize=29&fontColor=FFFFFF&animation=fadeIn"/> </div>
+🔬 Bridging Image Recognition & Conversational AI
+
+An AI-oriented preventive-care concept exploring how multiple intelligent technologies can work together.
+
+🧩 Components
 
 📷 Image Recognition
 ❤️ Biometric Monitoring
 💬 Conversational AI
 🔍 Explainable AI
 
-### Architecture
-
-```text
-📷 Image
+🧠 Architecture
+📷 IMAGE
    +
-❤️ Biometric Signals
+❤️ BIOMETRIC SIGNALS
    +
-💬 Conversation
+💬 CONVERSATION
    ↓
-🧠 AI System
+🧠 AI SYSTEM
    ↓
-🔍 Explainable Insights
+🔍 EXPLAINABLE INSIGHTS
    ↓
-🌱 Preventive Intelligence
-```
+🌱 PREVENTIVE INTELLIGENCE
+🔬 Technology
 
-### 🔬 Technology
+🐍 Python
+⚡ FastAPI
+🔥 PyTorch
+🧠 TensorFlow
+🐘 PostgreSQL
+⚡ Redis
+🔐 JWT
+🔍 Grad-CAM
+📱 Flutter
 
-`Python` • `FastAPI` • `PyTorch` • `TensorFlow`
+🧠 “Why build one intelligent system when several can cooperate?”
+🧪 DEVELOPER LABORATORY
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:422006,50:B45309,100:F59E0B&height=115&text=🧪%20MY%20DEVELOPER%20LABORATORY&fontSize=27&fontColor=FFFFFF&animation=twinkling"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=FBBF24&center=true&vCenter=true&width=820&lines=🧪+Experimenting;🐛+Breaking;🔍+Investigating;🔧+Fixing;🚀+Shipping"/> </div>
 
-`PostgreSQL` • `Redis` • `JWT`
+This GitHub is more than a collection of finished projects.
 
-`Grad-CAM` • `Flutter`
+It is my digital laboratory.
 
-> 🧠 **“Why use one intelligent system when several can cooperate?”**
-
----
-
-# 🧪 My Developer Laboratory
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif" width="500"/>
-
-### 🔬 EXPERIMENT → FAIL → LEARN → BUILD BETTER
-
-</div>
-
-My GitHub is not meant to be just a collection of finished repositories.
-
-It represents the process behind them:
-
-```text
-📚 Learn
+📚 LEARN
    +
-🧪 Experiment
+🧪 EXPERIMENT
    +
-💻 Build
-   +
-🐛 Break
-   +
-🔧 Debug
-   +
-📈 Improve
-   =
-🚀 Growth
-```
-
-> 😂 **“Some experiments produce results. Some produce Stack Overflow tabs.”**
-
----
-
-# 📚 Current Learning
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPe2eeVYOk1jFYQ/giphy.gif" width="300"/>
-
-</div>
-
-| 🔥 Area       | 🎯 Focus                                                   |
-| ------------- | ---------------------------------------------------------- |
-| 🗄️ SQL       | JOIN, GROUP BY, HAVING, CTE, Subqueries, Window Functions  |
-| 🐍 Python     | Pandas, NumPy, Matplotlib, Cleaning, EDA                   |
-| 📊 BI         | Power BI, Power Query, DAX, Visualization                  |
-| 📐 Statistics | Probability, Descriptive Statistics, Correlation, Analysis |
-| 🤖 ML         | Machine Learning Fundamentals                              |
-| ✨ GenAI       | LLM-based Applications & AI Assistants                     |
-| 🌐 Web        | React, Node.js, Express.js                                 |
-
-> 📚 **“Currently learning everything except how to stop adding things to my learning list.”**
-
----
-
-# 🔥 My Learning Loop
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="300"/>
-
-```text
-📖 LEARN
-   ↓
-❓ QUESTION
-   ↓
 💻 BUILD
-   ↓
+   +
 🐛 BREAK
-   ↓
+   +
 🔧 DEBUG
-   ↓
+   +
 📈 IMPROVE
-   ↓
-🚀 SHIP
-   ↓
-🔁 REPEAT
-```
+   =
+🚀 GROWTH
+🔬 Inside the Lab
 
-> 🐛 **“Debugging is fixing the problem you created while fixing the previous problem.”**
+🤖 AI Experiments
+📊 Data Analytics
+🗄️ SQL Practice
+🐍 Python Problem Solving
+🌐 Full-Stack Applications
+🧪 Technical Experiments
+📚 Learning Repositories
+🚀 Product Prototypes
 
-</div>
+😂 “Some experiments produce results. Others produce 27 Stack Overflow tabs.”
 
----
+📚 CURRENTLY LEARNING
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:1D4ED8,100:3B82F6&height=105&text=📚%20ALWAYS%20LEARNING&fontSize=29&fontColor=FFFFFF"/> </div>
+🧠 Area	🎯 Focus
+🗄️ SQL	JOIN, GROUP BY, HAVING, CTE, Subqueries, Window Functions
+🐍 Python	Pandas, NumPy, Matplotlib, Cleaning, EDA
+📊 Power BI	Power Query, DAX, Visualization
+📐 Statistics	Probability, Descriptive Statistics, Correlation
+🤖 ML	Machine Learning Fundamentals
+✨ GenAI	LLM Applications & AI Assistants
+🌐 Web	React, Node.js, Express.js
 
-# 🎯 Career Direction
+📚 “Currently learning everything except how to stop adding things to my learning list.”
+🔥 MY LEARNING LOOP
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:451A03,50:B45309,100:F59E0B&height=100&text=🔥%20LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20IMPROVE&fontSize=25&fontColor=FFFFFF"/> </div>
+       📖 LEARN
+          ↓
+       ❓ QUESTION
+          ↓
+       💻 BUILD
+          ↓
+       🐛 BREAK
+          ↓
+       🔧 DEBUG
+          ↓
+       📈 IMPROVE
+          ↓
+       🚀 SHIP
+          ↓
+       🔁 REPEAT
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=FROM%20DEVELOPER%20TO%20BUILDER&fontSize=31&fontColor=0EA5E9"/>
-
-```text
+🐛 “Debugging is fixing the problem you created while fixing the previous problem.”
+🎯 CAREER DIRECTION
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=🎯%20FROM%20DEVELOPER%20TO%20BUILDER&fontSize=27&fontColor=22D3EE"/>
 🎓 STUDENT
-    ↓
+     ↓
 🧠 AI + DATA + SOFTWARE
-    ↓
+     ↓
 🛠️ PRODUCT BUILDER
-    ↓
+     ↓
 🚀 ENTREPRENEUR
-```
-
-### Long-Term Vision
-
-**Build technology → Solve real problems → Create products → Make an impact**
-
-> 🚀 **“I'm not trying to know everything. I'm trying to become someone who can figure things out.”**
-
 </div>
 
----
+I want to build the ability to understand a problem from multiple perspectives:
 
-# 🌌 SINERGIA
+💻 Technical
+     +
+📊 Analytical
+     +
+🧠 AI
+     +
+🎯 Product
+     +
+👤 User
+     ↓
+🌍 Better Solution
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022C22,45:065F46,100:10B981&height=120&text=AI%20WELLNESSVISION&fontSize=31&fontColor=FFFFFF&animation=fadeIn"/>
-
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="280"/>
-
-### **Intelligence Through Synergy**
-
+🚀 “I'm not trying to know everything. I'm trying to become someone who can figure things out.”
+🌌 SINERGIA
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,35:164E63,70:0891B2,100:22D3EE&height=170&text=SINERGIA&fontSize=58&fontColor=FFFFFF&animation=twinkling"/> <br>
+🤝 Intelligence Through Synergy
 </div>
 
-**SINERGIA** represents my long-term startup vision.
+SINERGIA represents my long-term startup vision.
 
-The philosophy:
+The idea:
 
-```text
 🤖 AI
  +
 📊 DATA
@@ -574,130 +466,87 @@ The philosophy:
 🧠 HUMAN CREATIVITY
         ↓
 🌍 MEANINGFUL SOLUTIONS
-```
 
-> 🌌 **“Different strengths. One direction. Greater possibilities.”**
+I want to eventually create products that combine intelligent technology with real-world problem solving.
 
----
-
-# 🧭 My Developer Roadmap
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300"/>
-
-</div>
-
-```text
+🌌 “Different strengths. One direction. Greater possibilities.”
+🧭 DEVELOPER ROADMAP
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:172554,50:1E40AF,100:2563EB&height=100&text=🧭%20MY%20ROADMAP&fontSize=30&fontColor=FFFFFF"/> </div>
 2026
- │
- ├── 🐍 Stronger Python
- ├── 🗄️ Advanced SQL
- ├── 📊 Data Analytics
- ├── 📈 Power BI + Statistics
- ├── 🤖 Machine Learning
- ├── ✨ Generative AI
- ├── 🌐 Full-Stack Development
- └── 🚀 Product Building
-       │
-       ▼
-    FUTURE
-       │
-       ├── 🧠 Advanced AI
-       ├── 🏗️ Product Engineering
-       ├── 📊 Intelligent Systems
-       └── 🌌 Entrepreneurship
-```
+│
+├── 🐍 Stronger Python
+├── 🗄️ Advanced SQL
+├── 📊 Data Analytics
+├── 📈 Power BI + Statistics
+├── 🤖 Machine Learning
+├── ✨ Generative AI
+├── 🌐 Full-Stack Development
+└── 🚀 Product Building
+        │
+        ▼
+      FUTURE
+        │
+        ├── 🧠 Advanced AI
+        ├── 📊 Intelligent Systems
+        ├── 🏗️ Product Engineering
+        └── 🌌 Entrepreneurship
 
-> 🗺️ **“The roadmap is long. The Wi-Fi is short.”**
-
----
-
-# 🧠 Things I Believe
-
+🗺️ “The roadmap is long. The Wi-Fi is short.”
+😂 A LITTLE DEVELOPER HUMOR
 <div align="center">
+💻 Coding
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260"/>
+“My code has a personality. Unfortunately, it is unpredictable.”
+
+🐛 Debugging
+
+“The bug wasn't in the code. The bug was in my confidence.”
+
+📊 Data
+
+“I don't argue. I query.”
+
+🤖 AI
+
+“Artificial Intelligence is impressive. Natural Intelligence is still under development.”
+
+☕ Productivity
+
+“First coffee. Then code. Then coffee to debug the code.”
+
+🚀 Deployment
+
+“Commit early. Commit often. Regret occasionally.”
 
 </div>
-
-### 💡 Understanding > Memorization
-
-### 🛠️ Building > Just Talking
-
-### 🐛 Failure > Fear of Failure
-
-### 📊 Data > Guesswork
-
-### 🤖 Useful AI > AI Hype
-
-### 🌍 Accessibility > Complexity
-
-### 🚀 Consistency > Motivation
-
-> 😄 **“Coffee compiles faster than motivation.”**
-
----
-
-# 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MY%20CODE%20%E2%80%A2%20MY%20JOURNEY%20%E2%80%A2%20MY%20GROWTH&fontSize=25&fontColor=22D3EE"/>
+📈 GITHUB INTELLIGENCE
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=📈%20MY%20CODE%20%E2%80%A2%20MY%20JOURNEY%20%E2%80%A2%20MY%20GROWTH&fontSize=24&fontColor=22D3EE"/>
 
 <br><br>
 
-<a href="https://github.com/kanith8206">
-
-<img src="https://img.shields.io/badge/GitHub-kanith8206-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/💻%20CODE-Always%20Building-0EA5E9?style=for-the-badge"/> </a> <a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/📚%20LEARNING-Always%20Growing-8B5CF6?style=for-the-badge"/> </a> <a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/🧪%20EXPERIMENTS-Always%20Exploring-F59E0B?style=for-the-badge"/> </a> <a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/🚀%20PROJECTS-Always%20Creating-10B981?style=for-the-badge"/> </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Repositories-Building-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Exploring-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Learning-Continuous-10B981?style=for-the-badge"/>
+<a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-OPEN%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 <br><br>
 
-### 👇 Explore my actual work
-
-<a href="https://github.com/kanith8206">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20REPOSITORIES-Visit%20GitHub-0F172A?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-> 📈 **“My GitHub isn't a scoreboard. It's a timeline of what I'm becoming.”**
+📈 “My GitHub isn't a scoreboard. It's a timeline of what I'm becoming.”
 
 </div>
-
----
-
-# 🐍 Contribution Journey
-
+🐍 CONTRIBUTION JOURNEY
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="90%"/>
 
 <br><br>
 
-> 🐍 **“The snake eats contributions. I eat bugs.”**
+🐍 “The snake eats contributions. I eat bugs.”
 
 </div>
-
----
-
-# 🌟 What You'll Find Here
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=MY%20DIGITAL%20WORKSPACE&fontSize=30&fontColor=22D3EE"/>
-
-</div>
-
-```text
+🌟 WHAT YOU'LL FIND HERE
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:334155,100:0EA5E9&height=100&text=🌟%20MY%20DIGITAL%20WORKSPACE&fontSize=28&fontColor=FFFFFF"/> </div>
 🤖 AI Experiments
 📊 Data Analytics
 🗄️ SQL Practice
@@ -707,50 +556,24 @@ The philosophy:
 📚 Learning Repositories
 🚀 Product Prototypes
 💡 Future Ideas
-```
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26xBukhY7vYt7i8P2/giphy.gif" width="280"/>
+🌐 LET'S CONNECT
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=🤝+Let's+Connect;💡+Let's+Exchange+Ideas;🚀+Let's+Build+Something+Interesting"/>
 
 <br><br>
 
-<a href="https://kishorekanitkan.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
-</a>
+<a href="https://kishorekanitkan.vercel.app/"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/> </a> <a href="https://www.linkedin.com/in/kishore-kanitkan/"> <img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/kanith8206"> <img src="https://img.shields.io/badge/🐙%20GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:kanith770@gmail.com"> <img src="https://img.shields.io/badge/📧%20EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:020617&height=180&section=footer&text=🚀%20BUILD%20SOMETHING%20THAT%20MATTERS&fontSize=25&fontColor=FFFFFF&animation=twinkling"/>
+while(alive): learn(); build(); improve();
+🤖 THINK BIGGER
+💻 BUILD SMARTER
+🌍 CREATE IMPACT
+<br>
 
-<a href="https://www.linkedin.com/in/kishore-kanitkan/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+😂 “Commit early. Commit often. Regret occasionally.”
 
-<a href="https://github.com/kanith8206">
-<img src="https://img.shields.io/badge/💻%20GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
+Kishore Kanitkan
 
-<a href="mailto:kanith770@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+🤖 AI • 📊 DATA • 💻 SOFTWARE • 🚀 PRODUCTS • 🌌 SINERGIA
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:020617&height=180&section=footer&text=BUILD%20SOMETHING%20THAT%20MATTERS&fontSize=27&fontColor=FFFFFF&animation=fadeIn"/>
-
-### `while(alive): learn(); build(); improve();`
-
-> 😂 **“Commit early. Commit often. Regret occasionally.”**
-
-## 🚀 **Think Bigger. Build Smarter. Create Impact.**
-
-### **Kishore Kanitkan**
-
-`AI` • `DATA` • `SOFTWARE` • `PRODUCTS` • `SINERGIA`
-
-</div>
+</div> ```
